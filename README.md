@@ -1,4 +1,4 @@
-# Devesh portfolio
+# Devesh Bhaskar portfolio
 
 Hey! welcome to my portfolio.
 
